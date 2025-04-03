@@ -1,0 +1,25 @@
+[CompactMode]
+MaximumTextWidthIndex=2
+
+[DetailsMode]
+IconSize=22
+PreviewSize=112
+
+[General]
+Version=202
+ViewPropsTimestamp=2025,4,3,1,39,56.754
+
+[IconsMode]
+IconSize=80
+PreviewSize=96
+TextWidthIndex=2
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,gdk-pixbuf-thumbnailer
